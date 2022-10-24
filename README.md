@@ -2,4 +2,4 @@
 
 This app contains quotes from famous people
 
-![](https://github.com/alisherkarimov/quotables.git)
+![ezgif com-gif-maker](https://github.com/alisherkarimov/quotables.git)
